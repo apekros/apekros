@@ -1,5 +1,5 @@
 ## hi all
-Software Engineer @
+Software Engineer @ Swordfish Computing
 
 Interested in reverse engineering, malware analysis and secure software engineering.
 ### tech stack
