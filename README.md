@@ -1,4 +1,4 @@
-hello! I'm Bayley Foster a Software Engineer @ Swordfish Computing, my main interests include reverse engineering, malware analysis and secure software engineering :)
+hello! I'm Bayley Foster a Software Engineer, my main interests include reverse engineering, malware analysis and secure software engineering :)
 
 ## tech stack
 <p>
