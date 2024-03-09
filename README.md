@@ -1,4 +1,4 @@
-hello! I'm Bayley Foster a Senior Software Engineer, my main interests include reverse engineering, malware analysis and secure software engineering :)
+hi! I'm Bayley Foster a Senior Software Engineer, my main interests include reverse engineering, malware analysis and secure software engineering :)
 
 ## tech stack
 <p>
