@@ -1,4 +1,4 @@
-swe. building. reversing. creating.
+swe. building. reversing. creating. shipping.
 
 ## tech stack
 <p>
